@@ -1,6 +1,6 @@
 # D'abord et avant tout...
 
-===
+---
 
 ## Qui suis-je?
 
