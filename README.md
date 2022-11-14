@@ -58,16 +58,17 @@ Depuis mes anciennes expériences, j'ai décidé de me relancer dans le domaine 
 
 ---
 
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="200px" alt="HTML5" max-height="100px">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="150px" alt="CSS3" max-height="100px">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="200px" alt="Javascript-ES6">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="200px" alt="Typescript">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="200px" alt="React">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="200px" alt="Node.JS">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="200px" alt="MongoDB">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="200px" alt="Sass">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="200px" alt="Git">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="200px" alt="Bootstrap4">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="200px" alt="Ruby">
-<img style="float: left;" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="200px" alt="RubyOnRails">
-
+<div style="display: flex; align-items: flex-start; justify-content: center; background: #fdfdfd;">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px" alt="HTML5" max-height="100px">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40px" alt="CSS3" max-height="100px">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" alt="Javascript-ES6">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="50px" alt="Typescript">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50px" alt="React">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50px" alt="Node.JS">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50px" alt="MongoDB">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50px" alt="Sass">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50px" alt="Git">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50px" alt="Bootstrap4">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50px" alt="Ruby">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="50px" alt="RubyOnRails">
+</div>
