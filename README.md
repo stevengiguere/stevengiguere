@@ -55,6 +55,7 @@ Puisque j'était bien à l'aise avec de travailler avec un PC, j'ai pratiquement
 
 Depuis mes anciennes expériences, j'ai décidé de me relancer dans le domaine de la création d'application Web vers la fin de l'année 2022 (attendez vous à voir ce "readme.md" changer à l'occasion). Voici une liste exhaustive des prochaines connaissances que je m'engage à acquérir afin d'accéder à un poste de FullStack (ou FrontEnd) développeur junior.
 
+
 ---
 
 <div style="display: flex; align-items: flex-start; justify-content: center; background: #fdfdfd;">
@@ -71,3 +72,7 @@ Depuis mes anciennes expériences, j'ai décidé de me relancer dans le domaine 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50px" alt="Ruby">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="50px" alt="RubyOnRails">
 </div>
+
+## Réalisations / Projets
+
+ - [Tindog, a meeting app for dogs to find love (HTML, CSS, Bootstrap)](https://stevengiguere.github.io/tindog/)
