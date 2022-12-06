@@ -20,7 +20,6 @@ Au collège Shawinigan, j'ai complété mon [DEC en bureautique : Option Microé
 
 J'ai appris une bonne partie de mon _anglais_ durant ces années-là aussi. Durant mon parcours, j'ai misé beaucoup plus d'effort sur la création de site Web.
 
-
 À la fin de mon DEC, j'ai tenté de me placer dans une boîte pour faire des sites Web, mais ma candidature n'a pas été retenu. J'ai donc pris un peu de recul et j'ai commencé à travailler dans le domaine de la cuisine. 
 
 
@@ -51,29 +50,44 @@ Puisque j'était bien à l'aise avec de travailler avec un PC, j'ai pratiquement
   - Excel
   - PowerPoint
 
-## Compétences en devenir
-
-Depuis mes anciennes expériences, j'ai décidé de me relancer dans le domaine de la création d'application Web vers la fin de l'année 2022 (attendez vous à voir ce "readme.md" changer à l'occasion). Voici une liste exhaustive des prochaines connaissances que je m'engage à acquérir afin d'accéder à un poste de FullStack (ou FrontEnd) développeur junior.
-
-
----
-
-<div style="display: flex; align-items: flex-start; justify-content: center; background: #fdfdfd;">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px" alt="HTML5" max-height="100px">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40px" alt="CSS3" max-height="100px">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px" alt="Javascript-ES6">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="50px" alt="Typescript">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50px" alt="React">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50px" alt="Node.JS">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50px" alt="MongoDB">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50px" alt="Sass">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50px" alt="Git">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50px" alt="Bootstrap4">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50px" alt="Ruby">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="50px" alt="RubyOnRails">
-</div>
 
 ## Réalisations / Projets
 
  - [Tindog, a meeting app for dogs to find love (HTML, CSS, Bootstrap)](https://stevengiguere.github.io/tindog/)
  - [Page Newsletter, fait avec express.js, avec l'API MailChimp, avec un template Bootstrap](https://sleepy-cap-slug.cyclic.app/)
+
+---
+
+## Compétences en devenir
+
+Depuis mes anciennes expériences, j'ai décidé de me relancer dans le domaine de la création d'application Web vers la fin de l'année 2022 (attendez vous à voir ce "readme.md" changer à l'occasion). Voici une liste exhaustive des prochaines connaissances que je m'engage à acquérir afin d'accéder à un poste de FullStack (ou FrontEnd) développeur junior.
+
+---
+
+<div style="flex: inline; align-items: flex-start; justify-content: center; align-items: center; background: #fdfdfd;">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="25px" alt="HTML5" max-height="100px">
+	<span>80%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="20px" alt="CSS3" max-height="100px">
+	<span>70%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="25px" alt="Bootstrap4">
+	<span>30%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="25px" alt="Sass">
+	<span>20%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="25px" alt="Javascript-ES6">
+	<span>50%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="25px" alt="Typescript">
+	<span>20%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25px" alt="React">
+	<span>0%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="25px" alt="Node.JS">
+	<span>25%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="25px" alt="MongoDB">
+	<span>0%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="25px" alt="Git">
+	<span>30%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="25px" alt="Ruby">
+	<span>10%</span><br>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="25px" alt="RubyOnRails">
+	<span>5%</span><br>
+</div>
+
